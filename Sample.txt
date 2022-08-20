@@ -1,0 +1,7 @@
+This command is used to add one or more files to staging (Index) area.
+Syntax
+To add one file
+	$ git add Filename 
+
+To add more than one file
+	$ git add* (or) $ git add .
